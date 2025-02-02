@@ -21,3 +21,12 @@ En este proyecto trabajaremos con HTML, CSS y Javascript.
 Creación de array para almacenar los nombres.
 
 ``` let amigos = []; ```
+
+### Implementación de función para acregar amigos.
+
+```function agregarAmigo()```
+
+* Capturar el valor del campo de entrada.
+* Validar la entrada.
+* Actualizar el array de amigos.
+* Limpiar el campo de entrada.
