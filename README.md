@@ -30,3 +30,20 @@ Creación de array para almacenar los nombres.
 * Validar la entrada.
 * Actualizar el array de amigos.
 * Limpiar el campo de entrada.
+
+```function sortearAmigo()```
+
+* Validar que haya amigos disponible.
+* Generar un índice aleatorio.    
+* Obtener el nombre sorteado.
+* Mostrar el resultado.
+
+
+## Objetivo del proyecto 
+
+* añadir nombres a través del input.
+* Si no se pasa ningún nombre levantar una alerta advirtiendo esto. 
+* ingresar los nombres dentro de una lista de amigos y desplegarlos en el codigo por medio de una etiquetra ```li```.
+* sortear de forma aleatoria los nombres de amigos de la lista y mostar en pantalla el nombre seleccionado aleatoriamente. 
+
+![alt text](image.png)
